@@ -3,5 +3,8 @@
 
 **_1. Account chooser Page_** 
 
+![accout setting](https://user-images.githubusercontent.com/17427223/31104293-74b5cef8-a7dc-11e7-9404-0001885ec34e.png)
+
 **_2. Account setting and information_**
 
+![account chooser](https://user-images.githubusercontent.com/17427223/31104290-70ea6284-a7dc-11e7-89a5-122bb7195a9c.png)
